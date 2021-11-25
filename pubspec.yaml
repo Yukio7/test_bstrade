@@ -30,11 +30,10 @@ dependencies:
   cupertino_icons: ^1.0.3
   # if you are using latest flutter please update your flutter_svg package to ^0.18.*
   
-  provider: ^5.0.0 # for State management
+  provider: ^6.0.0 # for State management
   flutter_update: ^2.1.0
   flutter_svg: ^0.23.0
   stream_chat_flutter: ^3.2.0
-  
 
 dev_dependencies:
   flutter_test:
